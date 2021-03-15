@@ -37,6 +37,14 @@ img.logo {
   border-image: url(border.png) 30 stretch;
 }
 
+<ul>
+  <li><a href="index.html">Home</a></li>
+  <li><a href="poster.html">Poster</a></li>
+  <li><a href="photos.html">Photos</a></li>
+</ul>
+
+
+
 img {
   max-width: 100%;
   height: auto;
