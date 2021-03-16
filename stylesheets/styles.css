@@ -61,13 +61,6 @@ li a:hover {
   background-color: #5b5b74;
 }
 
-li {
-  border-right: 3px solid #white;
-}
-
-li:last-child {
-  border-right: none;
-}
 
 
 img {
