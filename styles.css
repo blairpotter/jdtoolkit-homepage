@@ -39,7 +39,7 @@ img.logo {
 
 ul {
   list-style-type: none;
-  margin: 0;
+  margin: 7;
   padding: 0;
   overflow: hidden;
   background-color: #777798;
@@ -63,6 +63,8 @@ li a:hover {
 
 
 img {
-  max-width: 100%;
+  max-width: 50%;
   height: auto;
+  margin: 50px;
 }
+
