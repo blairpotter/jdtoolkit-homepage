@@ -39,7 +39,7 @@ img.logo {
 
 ul {
   list-style-type: none;
-  margin: 0;
+  margin: 7;
   padding: 0;
   overflow: hidden;
   background-color: #777798;
@@ -67,9 +67,3 @@ img {
   height: auto;
 }
 
-div.relative {
-  position: relative;
-  width: 400px;
-  height: 200px;
-  border: 3px solid #73AD21;
-}
