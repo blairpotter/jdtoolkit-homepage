@@ -53,7 +53,7 @@ li a {
   display: block;
   color: white;
   text-align: center;
-  padding: 18px 59.5px;
+  padding: 18px 70.5px;
   text-decoration: none;
 }
 
@@ -61,12 +61,8 @@ li a:hover {
   background-color: #5b5b74;
 }
 
-li {
-  border-right: 3px solid #white;
-}
-
-li:last-child {
-  border-right: none;
+p {
+  margin: 25px 50px 75px 100px;
 }
 
 
