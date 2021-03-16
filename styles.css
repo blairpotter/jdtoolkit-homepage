@@ -31,12 +31,6 @@ img.logo {
 	margin: 2em auto;
 }
 
-#borderimg {
-  border: 10px solid transparent;
-  padding: 15px;
-  border-image: url(border.png) 30 stretch;
-}
-
 ul {
   list-style-type: none;
   margin: 7;
