@@ -61,3 +61,7 @@ img {
   height: auto;
 }
 
+ul.styled-list {
+	list-style-type: none
+	color: #4682B4 ;
+}
