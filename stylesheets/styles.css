@@ -31,7 +31,7 @@ img.logo {
 	margin: 2em auto;
 }
 
-ul {
+ul.navbar {
   list-style-type: none;
   margin: 7;
   padding: 0;
@@ -61,7 +61,7 @@ img {
   height: auto;
 }
 
-ul.styled-list {
+ul.categories {
 	list-style-type:disc;
 	color: #4682B4 ;
 	background-color: none
