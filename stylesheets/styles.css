@@ -62,7 +62,7 @@ img {
 }
 
 ul.categories {
-	list-style-type:disc;
+	list-style-type:none;
 	color: #4682B4 ;
 	background-color: none
 }
