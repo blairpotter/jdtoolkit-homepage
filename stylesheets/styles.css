@@ -61,9 +61,3 @@ img {
   height: auto;
 }
 
-ul.categories {
-	list-style-type:disc;
-	text-align: vertical;
-	color: #4682B4 ;
-	background-color: none
-}
