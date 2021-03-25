@@ -39,7 +39,7 @@ ul.navbar {
   background-color: #777798;
 }
 
-li {
+ul.navbar li {
   float: left;
 }
 
