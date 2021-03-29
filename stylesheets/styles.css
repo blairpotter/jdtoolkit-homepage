@@ -4,7 +4,7 @@ body {
 	font-size: 10px;
 	padding: 1em;
 	text-align: center;
-	font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+	font-family:  'Noto Sans JP', sans-serif;
 }
 
 h1 {
@@ -16,7 +16,7 @@ p, ul {
 	font-family: "Times New Roman", serif;
 	color: #4682B4;
 	max-width: 30em;
-	width: 100%;
+	width: 75%;
 	text-align: left;
 	margin: 1em auto 1em auto;
 	font-size:190%;
@@ -24,10 +24,10 @@ p, ul {
 }
 
 img.logo {
-	width: 100%;
+	width: 50%;
 	height: auto;
-	max-width: 400px;
-	max-height: 400px;
+	max-width: 50px;
+	max-height: 50px;
 	margin: 2em auto;
 }
 
@@ -47,7 +47,7 @@ li a {
   display: block;
   color: white;
   text-align: center;
-  padding: 18px 70.5px;
+  padding: 18px 70.70px;
   text-decoration: none;
 }
 
@@ -61,3 +61,6 @@ img {
   height: auto;
 }
 
+div {
+	position: center
+}
