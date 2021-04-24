@@ -33,21 +33,23 @@ img.logo {
 
 ul.navbar {
   list-style-type: none;
+  text-align: center;
   margin: 7;
   padding: 0;
   overflow: hidden;
   background-color: #777798;
+
 }
 
 ul.navbar li {
-  float: left;
+  display: inline-block;
 }
 
 li a {
   display: block;
   color: white;
   text-align: center;
-  padding: 18px 70.70px;
+  padding: 18px 18px;
   text-decoration: none;
 }
 
@@ -65,4 +67,8 @@ div {
 	
 }
 
-
+.page-content {
+	max-width: 90em;
+	width: 100%;
+	margin: 1em auto 1em auto;
+}
